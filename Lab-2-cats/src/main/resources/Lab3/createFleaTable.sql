@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS FLEA (
+    ID SERIAL PRIMARY KEY,
+    Name varchar(35),
+    CatID INT
+);
